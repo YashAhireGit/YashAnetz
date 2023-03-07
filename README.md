@@ -33,6 +33,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Sql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+   ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Oracle](https://img.shields.io/badge/-oracle-333333?style=flat&logo=oracle)
