@@ -35,6 +35,9 @@
   ![Sql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Oracle](https://img.shields.io/badge/-oracle-333333?style=flat&logo=oracle)
+  ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
