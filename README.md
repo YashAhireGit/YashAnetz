@@ -60,7 +60,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://yashahire.com"><img src="https://img.shields.io/badge/%F0%9F%8C%8E-yashahire.com-green"/></a>
+<a href="https://yashahire.com"><img src="https://img.shields.io/badge/-yashahire.com-0077B5?style=flat-square&logo=chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yahire"><img src="https://img.shields.io/badge/-Yahire-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:yashmahire@gmail.com"><img src="https://img.shields.io/badge/-yashmahire@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
