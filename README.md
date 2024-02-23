@@ -18,7 +18,7 @@
 - 🎓 &nbsp; Studying Computer Science at University of North Carolina at Charlotte.
 - 🤖 &nbsp; Gradute teaching assistant for Robot Motion Planning at UNC Charlotte.
 - 🧑‍💻 &nbsp; Created more than 100 Miniprojects in Javascript/React.
-- 📚 &nbsp; Currrently learning ReactJS.
+- 📚 &nbsp; Extensive experience with ReactJS.
 - 📀 &nbsp; 3 years work experience as a software developer at Tata Consultancy Services.
 
 
